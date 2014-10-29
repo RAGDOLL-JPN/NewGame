@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/cocos/base/ccCArray.cpp \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/platform/ios/CCStdC.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccTypes.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/CCGeometry.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/CCMath.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Vec2.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/CCMathBase.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Vec2.inl \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Vec3.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Vec3.inl \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Mat4.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Vec4.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Vec4.inl \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Mat4.inl \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Quaternion.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/math/Quaternion.inl \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/platform/ios/CCGL.h

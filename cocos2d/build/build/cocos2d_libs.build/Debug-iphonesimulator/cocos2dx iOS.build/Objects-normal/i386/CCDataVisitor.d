@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCBool.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCInteger.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/platform/CCCommon.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCFloat.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCDouble.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCString.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/platform/ios/CCStdC.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCDictionary.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/base/uthash.h \
+  /Users/NAKASHIMAshinichiro/Documents/workspace/NewGame/cocos2d/build/../cocos/deprecated/CCSet.h
