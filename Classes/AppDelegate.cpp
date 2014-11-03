@@ -20,16 +20,16 @@ bool AppDelegate::applicationDidFinishLaunching() {
         director->setOpenGLView(glview);
     }
 
-    // turn on display FPS
+    // フレームレートの表示
     director->setDisplayStats(true);
 
-    // set FPS. the default value is 1.0/60 if you don't call this
+    // フレームレートの設定
     director->setAnimationInterval(1.0 / 60);
 
-    // create a scene. it's an autorelease object
+    // 最初に呼び出されるシーンを作成する
     auto scene = HelloWorld::createScene();
 
-    // run
+    // 実行
     director->runWithScene(scene);
 
     return true;

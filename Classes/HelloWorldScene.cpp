@@ -93,7 +93,7 @@ bool HelloWorld::init()
     auto move = MoveBy::create(2, Point(100, 100));
     
     // 回転アクションを用意する
-    auto rotate = RotateBy::create(2, 90);
+    auto rotate = RotateBy::create(5, 90);
     
     // アクションを連結する
     auto spawn = Spawn::create(move, rotate, nullptr);
@@ -136,7 +136,16 @@ void HelloWorld::menuCloseCallback(Ref* pSender)
     return;
 #endif
 
-    Director::getInstance()->end();
+    //Director::getInstance()->end();
+    
+    // 新しく画面を用意する
+    auto scene = HelloWorld::createScene();
+    
+    // フェードアニメーションの設定
+    auto tran = TransitionFade::create(2, scene);
+    
+    // 新しい画面に遷移する
+    Director::getInstance()->replaceScene(tran);
 
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_IOS)
     exit(0);
